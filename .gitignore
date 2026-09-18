@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+input/*
+output/*
+!output/.gitkeep
+*.joblib
+.pytest_cache/
+data/train/cats/*.jpg
+data/train/dogs/*.jpg
+data/test/cats/*.jpg
+data/test/dogs/*.jpg

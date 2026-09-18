@@ -1,0 +1,23 @@
+# Final Submission Checklist
+
+- [ ] Repository is public.
+- [ ] README.md is at repository root.
+- [ ] statement.md is at repository root.
+- [ ] requirements.txt is present.
+- [ ] Project runs from terminal.
+- [ ] Dataset instructions are included.
+- [ ] At least 3 major functional modules are demonstrated.
+- [ ] 5+ meaningful source modules/files are present.
+- [ ] Tests pass.
+- [ ] Training model generated.
+- [ ] Evaluation metrics generated.
+- [ ] Confusion matrix screenshot added to report.
+- [ ] Architecture diagram added to report.
+- [ ] Workflow diagram added to report.
+- [ ] Use case diagram added to report.
+- [ ] Class diagram added to report.
+- [ ] Sequence diagram added to report.
+- [ ] Dataset and model rationale documented.
+- [ ] Screenshots/results added.
+- [ ] Final PDF report completed.
+- [ ] GitHub repository root URL is submitted, not a /tree/ or /blob/ URL.
